@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\4주차\6-1_예제\obj\Debug\6-1_예제.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\4주차\6-1_예제\bin\Debug\6-1_예제.exe.config
+C:\Users\admin\source\repos\4주차\6-1_예제\bin\Debug\6-1_예제.exe
+C:\Users\admin\source\repos\4주차\6-1_예제\bin\Debug\6-1_예제.pdb
+C:\Users\admin\source\repos\4주차\6-1_예제\obj\Debug\6-1_예제.exe
+C:\Users\admin\source\repos\4주차\6-1_예제\obj\Debug\6-1_예제.pdb

@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\4주차\5_버츄얼\bin\Debug\5_버츄얼.exe.config
+C:\Users\admin\source\repos\4주차\5_버츄얼\bin\Debug\5_버츄얼.exe
+C:\Users\admin\source\repos\4주차\5_버츄얼\bin\Debug\5_버츄얼.pdb
+C:\Users\admin\source\repos\4주차\5_버츄얼\obj\Debug\5_버츄얼.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\4주차\5_버츄얼\obj\Debug\5_버츄얼.exe
+C:\Users\admin\source\repos\4주차\5_버츄얼\obj\Debug\5_버츄얼.pdb

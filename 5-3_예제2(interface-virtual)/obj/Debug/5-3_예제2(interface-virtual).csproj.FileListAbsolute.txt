@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\4주차\5-3_예제2(interface-virtual)\bin\Debug\5-3_예제2(interface-virtual).exe.config
+C:\Users\admin\source\repos\4주차\5-3_예제2(interface-virtual)\bin\Debug\5-3_예제2(interface-virtual).exe
+C:\Users\admin\source\repos\4주차\5-3_예제2(interface-virtual)\bin\Debug\5-3_예제2(interface-virtual).pdb
+C:\Users\admin\source\repos\4주차\5-3_예제2(interface-virtual)\obj\Debug\5-3_예제2(interface-virtual).csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\4주차\5-3_예제2(interface-virtual)\obj\Debug\5-3_예제2(interface-virtual).csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\4주차\5-3_예제2(interface-virtual)\obj\Debug\5-3_예제2(interface-virtual).exe
+C:\Users\admin\source\repos\4주차\5-3_예제2(interface-virtual)\obj\Debug\5-3_예제2(interface-virtual).pdb

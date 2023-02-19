@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\4주차\2_열거형\bin\Debug\2_열거형.exe.config
+C:\Users\admin\source\repos\4주차\2_열거형\bin\Debug\2_열거형.exe
+C:\Users\admin\source\repos\4주차\2_열거형\bin\Debug\2_열거형.pdb
+C:\Users\admin\source\repos\4주차\2_열거형\obj\Debug\2_열거형.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\4주차\2_열거형\obj\Debug\2_열거형.exe
+C:\Users\admin\source\repos\4주차\2_열거형\obj\Debug\2_열거형.pdb

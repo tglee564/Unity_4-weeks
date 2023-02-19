@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\4주차\6_collection\bin\Debug\6_collection.exe.config
+C:\Users\admin\source\repos\4주차\6_collection\bin\Debug\6_collection.exe
+C:\Users\admin\source\repos\4주차\6_collection\bin\Debug\6_collection.pdb
+C:\Users\admin\source\repos\4주차\6_collection\obj\Debug\6_collection.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\4주차\6_collection\obj\Debug\6_collection.exe
+C:\Users\admin\source\repos\4주차\6_collection\obj\Debug\6_collection.pdb

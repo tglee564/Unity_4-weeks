@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\4주차\7_Dictionary\bin\Debug\7_Dictionary.exe.config
+C:\Users\admin\source\repos\4주차\7_Dictionary\bin\Debug\7_Dictionary.exe
+C:\Users\admin\source\repos\4주차\7_Dictionary\bin\Debug\7_Dictionary.pdb
+C:\Users\admin\source\repos\4주차\7_Dictionary\obj\Debug\7_Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\4주차\7_Dictionary\obj\Debug\7_Dictionary.exe
+C:\Users\admin\source\repos\4주차\7_Dictionary\obj\Debug\7_Dictionary.pdb

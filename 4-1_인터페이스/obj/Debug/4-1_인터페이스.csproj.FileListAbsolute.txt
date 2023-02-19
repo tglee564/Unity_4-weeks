@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\4주차\4-1_인터페이스\bin\Debug\4-1_인터페이스.exe.config
+C:\Users\admin\source\repos\4주차\4-1_인터페이스\bin\Debug\4-1_인터페이스.exe
+C:\Users\admin\source\repos\4주차\4-1_인터페이스\bin\Debug\4-1_인터페이스.pdb
+C:\Users\admin\source\repos\4주차\4-1_인터페이스\obj\Debug\4-1_인터페이스.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\4주차\4-1_인터페이스\obj\Debug\4-1_인터페이스.exe
+C:\Users\admin\source\repos\4주차\4-1_인터페이스\obj\Debug\4-1_인터페이스.pdb
