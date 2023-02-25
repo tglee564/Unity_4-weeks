@@ -5,3 +5,10 @@ C:\Users\admin\source\repos\4주차\5-2_예제\obj\Debug\5-2_예제.csproj.Assem
 C:\Users\admin\source\repos\4주차\5-2_예제\obj\Debug\5-2_예제.csproj.CoreCompileInputs.cache
 C:\Users\admin\source\repos\4주차\5-2_예제\obj\Debug\5-2_예제.exe
 C:\Users\admin\source\repos\4주차\5-2_예제\obj\Debug\5-2_예제.pdb
+C:\Users\WIN10\Desktop\유니티\4주차\5-2_예제\bin\Debug\5-2_예제.exe.config
+C:\Users\WIN10\Desktop\유니티\4주차\5-2_예제\bin\Debug\5-2_예제.exe
+C:\Users\WIN10\Desktop\유니티\4주차\5-2_예제\bin\Debug\5-2_예제.pdb
+C:\Users\WIN10\Desktop\유니티\4주차\5-2_예제\obj\Debug\5-2_예제.csproj.AssemblyReference.cache
+C:\Users\WIN10\Desktop\유니티\4주차\5-2_예제\obj\Debug\5-2_예제.csproj.CoreCompileInputs.cache
+C:\Users\WIN10\Desktop\유니티\4주차\5-2_예제\obj\Debug\5-2_예제.exe
+C:\Users\WIN10\Desktop\유니티\4주차\5-2_예제\obj\Debug\5-2_예제.pdb
